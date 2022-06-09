@@ -1,39 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
-      "prompt": "What special prop should always be included for lists of elements?",
-      "answers": [
-        "id",
-        "name",
-        "key",
-        "prop"
-      ],
-      "correctIndex": 2
-    },
-    {
-      "id": 2,
-      "prompt": "A React component is a function that returns ______.",
-      "answers": [
-        "HTML",
-        "JSX",
-        "props",
-        "state"
-      ],
-      "correctIndex": 1
-    },
-    {
-      "id": 3,
-      "prompt": "Which event handler will run when a user is finished filling out a form?",
-      "answers": [
-        "onSubmit",
-        "onClick",
-        "onChange",
-        "onForm"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 4,
       "prompt": "______ is a tool that transpiles JSX into valid JavaScript.",
       "answers": [
@@ -45,26 +12,179 @@
       "correctIndex": 1
     },
     {
-      "id": 5,
-      "prompt": "What syntax makes it possible to unpack values from arrays, or properties from objects, into distinct variables?",
+      "id": 7,
+      "prompt": "test",
       "answers": [
-        "spread",
-        "key-value",
-        "coalescing",
-        "destructuring"
-      ],
-      "correctIndex": 3
+        "tes",
+        "",
+        "tes",
+        "set"
+      ]
     },
     {
-      "id": 6,
-      "prompt": "Returning different elements from a component depending on the state of your application is known as _____ rendering.",
+      "prompt": "test",
       "answers": [
-        "voodoo",
-        "conditional",
-        "reactive",
-        "controlled"
+        "1",
+        "2",
+        "3",
+        "4"
       ],
-      "correctIndex": 1
+      "correctIndex": "3",
+      "id": 8
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 9
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 10
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 11
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 12
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 13
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 14
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 15
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 16
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 17
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 18
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 19
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": "3",
+      "id": 20
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "id": 21
+    },
+    {
+      "prompt": "",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correctIndex": 0,
+      "id": 22
     }
   ]
 }
